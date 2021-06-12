@@ -1,3 +1,8 @@
+//count total number of inversions in array
+//if bount of inversions is even then sortable 
+//else not
+
+
 #include <bits/stdc++.h>
 
 using namespace std;
